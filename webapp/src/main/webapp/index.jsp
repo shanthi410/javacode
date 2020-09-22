@@ -1,4 +1,4 @@
-<h1> ############### WELCOME TO  CLONE TECH CLOUD ############### </h1>
+<h1> ############### WELCOME TO  CLONE TECH CLOUDTECH ############### </h1>
 
 we are providing following courese....
 linux
